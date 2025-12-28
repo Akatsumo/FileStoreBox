@@ -23,7 +23,7 @@
 
 <h3 align="center">ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ</h3>
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Sumit0045/FileStoreBox">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Akatsumo/FileStoreBox">
     <img src="https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku" width="200" height="38"/>
   </a>
 </p>
@@ -41,7 +41,7 @@
   </li>
   <li>
     <b>𝙲𝚕𝚘𝚗𝚎 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢:</b><br>
-    <pre>git clone https://github.com/Sumit0045/FileStoreBox</pre>
+    <pre>git clone https://github.com/Akatsumo/FileStoreBox</pre>
     <pre>cd FileStoreBox</pre>
   </li>
   <li>
