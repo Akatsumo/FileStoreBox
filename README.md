@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Akatsumo/MediaLoom">
-    <img src="https://img.shields.io/badge/Deploy%20To-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="200" alt="Deploy to Heroku">
+    <img src="https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white" width="180" alt="Heroku">
   </a>
 </p>
 
