@@ -5,7 +5,7 @@
 > *Your ultimate, high-performance Telegram file management & storage solution.*
 
 <p align="center">
-  <img src="https://i.ibb.co/QSQbBr3/26f186c1de6f80d124942d715ff7a846.jpg" alt="26f186c1de6f80d124942d715ff7a846" border="0">
+  <img src="https://i.ibb.co/QSQbBr3/26f186c1de6f80d124942d715ff7a846.jpg" alt="girl-image" border="0">
 </p>
 
 [![Heroku Deployment](https://img.shields.io/badge/Deploy%20To-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Akatsumo/FileStoreBox)
