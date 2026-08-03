@@ -1,61 +1,58 @@
-<h1 align="center">ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏx ʙᴏᴛ</h1>
+<div align="center">
 
-<p align="center">ɪ’ᴍ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏx, ᴛʜᴇ ᴘᴇʀꜰᴇᴄᴛ ᴘʟᴀᴄᴇ ᴛᴏ ꜱᴛᴏʀᴇ ʏᴏᴜʀ ꜰɪʟᴇꜱ ᴀɴᴅ ᴠɪᴅᴇᴏꜱ. ᴡɪᴛʜ ᴜɴʟɪᴍɪᴛᴇᴅ ꜱᴛᴏʀᴀɢᴇ, ɪ’ᴍ ɴᴏᴛ ᴊᴜꜱᴛ ᴀ ʙᴏᴛ—ɪ’ᴍ ʏᴏᴜʀ ɴᴇxᴛ-ʟᴇᴠᴇʟ ꜱᴛᴏʀᴀɢᴇ ᴘᴀʀᴛɴᴇʀ!</p>
+# ◈ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏx ʙᴏᴛ ◈
+
+> *Your ultimate, high-performance Telegram file management & storage solution.*
 
 <p align="center">
-  <img src="https://envs.sh/Hpz.jpg" alt="File Store Box Bot" />
+  <img src="https://envs.sh/Hpz.jpg" alt="File Store Box Bot Banner" width="600" style="border-radius: 10px;"/>
 </p>
+
+[![Heroku Deployment](https://img.shields.io/badge/Deploy%20To-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Akatsumo/FileStoreBox)
+[![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+</div>
 
 ---
 
-<h2>✨ ꜰᴇᴀᴛᴜʀᴇꜱ ✨</h2>
+## ✦ ᴏᴠᴇʀᴠɪᴇᴡ
 
-<p>
-  • ꜱᴛᴀᴛꜱ <br>
-  • ʙʀᴏᴀᴅᴄᴀꜱᴛ <br>
-  • ᴜɴʟɪᴍɪᴛᴇᴅ ᴅᴀᴛᴀʙᴀꜱᴇ <br>
-  • ꜱʜᴏʀᴛᴇɴᴇʀ ᴍᴏᴅᴇ <br>
-  • ꜰᴏʀᴄᴇ ꜱᴜʙ ᴍᴏᴅᴇ <br>
-  • ꜱɪɴɢʟᴇ ᴀɴᴅ ʙᴀᴛᴄʜ ᴍᴏᴅᴇ
-</p>
+**File Store Box Bot** ek powerful Telegram bot hai jiske zariye aap apne files, documents, aur media clips ko centralized system par organize aur store kar sakte hain. Unlimited storage capabilities aur advanced access control filters ke sath yeh deployment foran ready ho jata hai.
 
---- 
+---
 
-<h3 align="center">ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ</h3>
+## ⚡ ᴋᴇʏ ꜰᴇᴀᴛᴜʀᴇꜱ
+
+* ◈ **Unlimited Database Storage:** Seamless storage integration bina kisi capacity limit ke.
+* ◈ **Single & Batch Processing:** Single files ya multipack files ko ek saath store/share karne ki suvidha.
+* ◈ **Force Sub Module:** Users ko bot access karne se pehle specific channel join karne par force karein.
+* ◈ **Url Shortener Integration:** Monetization ya link tracking ke liye built-in shortener mode.
+* ◈ **Global Broadcasting:** Direct announcement delivery to all registered bot users.
+* ◈ **Real-time Analytics:** Bot performance, active users, aur system usage tracking.
+
+---
+
+## ⚙ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ɢᴜɪᴅᴇ
+
+### 🚀 Option A: Deploy to Heroku
+
+Niche diye gaye button par click karke direct Heroku dashboard se deploy karein:
+
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Akatsumo/FileStoreBox">
-    <img src="https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=heroku" width="200" height="38"/>
+    <img src="https://www.heroku.com/deploy/button.svg" alt="Deploy to Heroku" width="200"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">ᴅᴇᴘʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ᴠᴘꜱ/ꜱᴇʀᴠᴇʀ</h2>
+### 💻 Option B: Deploy on Local VPS / Dedicated Server
 
-<p>𝙵𝚘𝚕𝚕𝚘𝚠 𝚝𝚑𝚎𝚜𝚎 𝚜𝚝𝚎𝚙𝚜 𝚝𝚘 𝚍𝚎𝚙𝚕𝚘𝚢 𝚝𝚑𝚎 𝚋𝚘𝚝 𝚘𝚗 𝚢𝚘𝚞𝚛 𝚜𝚎𝚛𝚟𝚎𝚛 𝚘𝚛 𝚕𝚘𝚌𝚊𝚕 𝚅𝙿𝚂:</p>
+#### 1. System Requirements & Prerequisites
+Ensure Python `3.10+` and `git` are installed on your environment.
 
-<ol>
-  <li>
-    <b>ꜱᴇᴛ ᴜᴘ ᴛʜᴇ ᴄᴏɴғɪɢᴜʀᴀᴛɪᴏɴ:</b><br>
-    𝙵𝚒𝚕𝚕 𝚝𝚑𝚎 <code>config.py</code> 𝚏𝚒𝚕𝚎 𝚠𝚒𝚝𝚑 𝚊𝚕𝚕 𝚝𝚑𝚎 𝚛𝚎𝚚𝚞𝚒𝚛𝚎𝚍 𝚍𝚎𝚝𝚊𝚒𝚕𝚜. 𝙴𝚗𝚜𝚞𝚛𝚎 𝚢𝚘𝚞 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚍𝚊𝚝𝚊𝚋𝚊𝚜𝚎 𝚄𝚁𝙻𝚜 𝚊𝚗𝚍 𝚘𝚝𝚑𝚎𝚛 𝚗𝚎𝚌𝚎𝚜𝚜𝚊𝚛𝚢 𝚌𝚛𝚎𝚍𝚎𝚗𝚝𝚒𝚊𝚕𝚜.
-  </li>
-  <li>
-    <b>𝙲𝚕𝚘𝚗𝚎 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢:</b><br>
-    <pre>git clone https://github.com/Akatsumo/FileStoreBox</pre>
-    <pre>cd FileStoreBox</pre>
-  </li>
-  <li>
-    <b>𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝚝𝚑𝚎 𝚍𝚎𝚙𝚎𝚗𝚍𝚎𝚗𝚌𝚒𝚎𝚜:</b><br>
-    <pre>pip install -r requirements.txt</pre>
-  </li>
-  <li>
-    <b>𝚂𝚝𝚊𝚛𝚝 𝚝𝚑𝚎 𝚋𝚘𝚝:</b><br>
-    <pre>python -m FileStoreBox</pre>
-  </li>
-</ol>
-
----
-
-<h2 align="center">🤝 ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ 🤝</h2>
-
-<p align="center">ʏᴏᴜ ᴄᴀɴ ғᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ, ʀᴀɪꜱᴇ ɪssᴜᴇꜱ, ᴏʀ ᴄᴏɴᴛʀɪʙᴜᴛᴇ ᴠɪᴀ ᴘᴜʟʟ ʀᴇǫᴜᴇꜱᴛꜱ ᴛᴏ ᴍᴀᴋᴇ ᴛʜɪs ʙᴏᴛ ᴇᴠᴇɴ ʙᴇᴛᴛᴇʀ!</p>
+#### 2. Clone Repository
+```bash
+git clone [https://github.com/Akatsumo/FileStoreBox.git](https://github.com/Akatsumo/FileStoreBox.git)
+cd FileStoreBox
