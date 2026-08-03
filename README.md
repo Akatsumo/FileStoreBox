@@ -18,18 +18,18 @@
 
 ## ✦ ᴏᴠᴇʀᴠɪᴇᴡ
 
-**File Store Box Bot** ek powerful Telegram bot hai jiske zariye aap apne files, documents, aur media clips ko centralized system par organize aur store kar sakte hain. Unlimited storage capabilities aur advanced access control filters ke sath yeh deployment foran ready ho jata hai.
+**File Store Box Bot** is a powerful Telegram bot that allows you to organize and store your files, documents, and media clips in a centralized system. Packed with unlimited storage capabilities and advanced access control filters, it is ready for instant deployment.
 
 ---
 
 ## ⚡ ᴋᴇʏ ꜰᴇᴀᴛᴜʀᴇꜱ
 
-* ◈ **Unlimited Database Storage:** Seamless storage integration bina kisi capacity limit ke.
-* ◈ **Single & Batch Processing:** Single files ya multipack files ko ek saath store/share karne ki suvidha.
-* ◈ **Force Sub Module:** Users ko bot access karne se pehle specific channel join karne par force karein.
-* ◈ **Url Shortener Integration:** Monetization ya link tracking ke liye built-in shortener mode.
-* ◈ **Global Broadcasting:** Direct announcement delivery to all registered bot users.
-* ◈ **Real-time Analytics:** Bot performance, active users, aur system usage tracking.
+* ◈ **Unlimited Database Storage:** Seamless storage integration with no capacity limits.
+* ◈ **Single & Batch Processing:** Support for storing and sharing single files or multiple files in batches.
+* ◈ **Force Sub Module:** Require users to join a specific channel before accessing the bot.
+* ◈ **URL Shortener Integration:** Built-in shortener mode for link tracking and monetization.
+* ◈ **Global Broadcasting:** Send direct announcements to all registered bot users.
+* ◈ **Real-time Analytics:** Track bot performance, active users, and system usage.
 
 ---
 
