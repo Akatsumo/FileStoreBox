@@ -38,8 +38,8 @@
 ### 🚀 Option A: Deploy to Heroku
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Akatsumo/FileStoreBox">
-    <img src="https://www.heroku.com/deploy/button.svg" alt="Deploy to Heroku" width="200"/>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Akatsumo/MediaLoom">
+    <img src="https://img.shields.io/badge/Deploy%20To-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="200" alt="Deploy to Heroku">
   </a>
 </p>
 
