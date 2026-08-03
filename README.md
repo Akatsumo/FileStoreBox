@@ -5,7 +5,7 @@
 > *Your ultimate, high-performance Telegram file management & storage solution.*
 
 <p align="center">
-  <img src="https://envs.sh/Hpz.jpg" alt="File Store Box Bot Banner" width="600" style="border-radius: 10px;"/>
+  <img src="https://envs.sh/Hpz.jpg" alt="File Store Box Bot Banner" width="600" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);"/>
 </p>
 
 [![Heroku Deployment](https://img.shields.io/badge/Deploy%20To-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/Akatsumo/FileStoreBox)
@@ -37,8 +37,6 @@
 
 ### 🚀 Option A: Deploy to Heroku
 
-Niche diye gaye button par click karke direct Heroku dashboard se deploy karein:
-
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Akatsumo/FileStoreBox">
     <img src="https://www.heroku.com/deploy/button.svg" alt="Deploy to Heroku" width="200"/>
@@ -52,7 +50,17 @@ Niche diye gaye button par click karke direct Heroku dashboard se deploy karein:
 #### 1. System Requirements & Prerequisites
 Ensure Python `3.10+` and `git` are installed on your environment.
 
-#### 2. Clone Repository
+#### 2. Terminal Commands (Clone, Setup, Install & Launch)
+
 ```bash
+# Step 2: Clone the repository
 git clone [https://github.com/Akatsumo/FileStoreBox.git](https://github.com/Akatsumo/FileStoreBox.git)
 cd FileStoreBox
+
+# Step 3: Set up configuration (fill config.py before running)
+
+# Step 4: Install required dependencies
+pip install -r requirements.txt
+
+# Step 5: Start the bot
+python -m FileStoreBox
