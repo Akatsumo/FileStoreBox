@@ -1,6 +1,6 @@
 <div align="center">
 
-# ◈ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏx ʙᴏᴛ ◈
+# ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏx ʙᴏᴛ
 
 > *Your ultimate, high-performance Telegram file management & storage solution.*
 
