@@ -13,7 +13,7 @@ button = InlineKeyboardMarkup([
           InlineKeyboardButton("Tool Box", callback_data="tools_")                
         ],
 	[
-          InlineKeyboardButton("Repository", url="https://github.com/Sumit0045/FileStoreBox")                
+          InlineKeyboardButton("Repository", url="https://github.com/Akatsumo/FileStoreBox")                
         ]])
 
 
